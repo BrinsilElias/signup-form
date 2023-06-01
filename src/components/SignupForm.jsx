@@ -70,7 +70,7 @@ export const SignupForm = () => {
       <div className='py-5'>
         <p className='text-sm font-normal text-center'>Already have an account ?</p>
         <p className='text-center'>
-          <a className='text-center text-sm font-semibold text-blue-700' href="">
+          <a className='text-center text-sm font-semibold text-blue-600' href="">
             Sign In
           </a>
         </p>
